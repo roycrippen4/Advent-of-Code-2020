@@ -1,0 +1,32 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020 solved in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Roy Crippen IV",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.4.0",
+    "cartesian-product-multiple-arrays": "^1.0.9",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "graphology-simple-path": "^0.2.0",
+    "prettier": "^3.0.2",
+    "ts-heapq": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "datastructures-js": "^13.0.0",
+    "graphology": "^0.25.4",
+    "graphology-shortest-path": "^2.0.2",
+    "heap-js": "^2.3.0",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.1"
+  }
+}
